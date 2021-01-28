@@ -1,6 +1,8 @@
 * text=auto
 *.txt text
+*.txt linguist-language=Text
 *.lst text
-*.zip -text
-*.gz -text
-*.tgz -text
+*.list linguist-language=Text
+*.zip binary
+*.gz binary
+*.tgz binary
