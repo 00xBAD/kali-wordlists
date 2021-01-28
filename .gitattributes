@@ -1,0 +1,6 @@
+* text=auto
+*.txt text
+*.lst text
+*.zip -text
+*.gz -text
+*.tgz -text
