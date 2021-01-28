@@ -1,6 +1,0 @@
-* linguist-language=Text
-* text=auto
-*.txt text
-*.zip binary
-*.gz binary
-*.tgz binary
